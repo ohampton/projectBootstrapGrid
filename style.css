@@ -24,3 +24,9 @@
 
     background: yellow;
 }
+
+.jumbotron {
+    background: url("computerscreen.jpg");
+    background-size: cover;
+    height: 100%;
+}
