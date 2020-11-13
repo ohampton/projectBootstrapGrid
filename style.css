@@ -30,3 +30,8 @@
     background-size: cover;
     height: 500px;
 }
+
+h1 {
+    color: ghostwhite;
+    text-align: right;
+}
